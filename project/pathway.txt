@@ -1,0 +1,10 @@
+create a user
+attach the files
+(images, attendance)
+
+-> create a new python file for attendance.py
+attach the photo files
+
+-> create a new file of attendance.csv(comma separated values)
+giving name and time slots
+and open the results with exploror
